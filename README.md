@@ -65,7 +65,7 @@ Notebook structure follows a "how much / when / where" question framework, start
 
 ## Related
 
-See the visual, management-facing version of this analysis:(**[Superstore Executive Dashboard (Power BI)](https://github.com/Pratham090909/superstore-executive-dashboard)**)**.
+See the visual, management-facing version of this analysis:(**[Superstore Executive Dashboard (Power BI)](https://github.com/Pratham090909/superstore-executive-dashboard)**).
 
 ---
 
