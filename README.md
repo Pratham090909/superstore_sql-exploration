@@ -1,6 +1,6 @@
 # Superstore Sales — SQL Exploration
 
-Exploratory data analysis of the Superstore retail dataset using SQL (DuckDB) in a Python/Colab notebook — deriving core business KPIs and answering targeted business questions directly through queries, as a companion piece to my [Power BI executive dashboard](link-to-other-repo) built on the same data.
+Exploratory data analysis of the Superstore retail dataset using SQL (DuckDB) in a Python/Colab notebook — deriving core business KPIs and answering targeted business questions directly through queries, as a companion piece to my [Power BI executive dashboard](https://github.com/Pratham090909/superstore-executive-dashboard)**) built on the same data.
 
 ---
 
@@ -59,13 +59,13 @@ Notebook structure follows a "how much / when / where" question framework, start
 
 ## Files
 
-- `DA_1.ipynb` — the full notebook, runnable in Google Colab or locally with `duckdb` and `pandas` installed.
+- `DA.ipynb` — the full notebook, runnable in Google Colab or locally with `duckdb` and `pandas` installed.
 
 ---
 
 ## Related
 
-See the visual, management-facing version of this analysis: **[Superstore Executive Dashboard (Power BI)](link-to-other-repo)**.
+See the visual, management-facing version of this analysis:(**[Superstore Executive Dashboard (Power BI)](https://github.com/Pratham090909/superstore-executive-dashboard)**)**.
 
 ---
 
